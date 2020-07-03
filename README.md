@@ -7,4 +7,4 @@ Easy to type 'G$()' structure.
 Support jQuery.
 
 ### Project Info
-This Framework following principle taught in the Udemy Course: [JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/).
+This Framework following principles taught in the Udemy Course: [JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/).
